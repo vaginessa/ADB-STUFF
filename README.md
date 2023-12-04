@@ -11,4 +11,8 @@ https://github.com/cgutman/RemoteAdbShell
 
 https://github.com/plus1998/AdbNetShell
 
+https://github.com/KhunHtetzNaing/ADB-OTG/tree/master/app/release
+
+https://github.com/nikita-yfh/android-adb-tools
+
 
