@@ -29,3 +29,23 @@ https://github.com/ejrv/Azerokit
 
 https://github.com/Jefino9488/Fastboot-Flasher
 
+https://github.com/code-reaper08/VALFE08/releases
+
+https://github.com/nicamoq/SuroADB-Lite
+
+https://github.com/iskraM/AndroidADB_connector/releases
+
+https://github.com/Konyaco/ADB_UI/releases
+
+https://github.com/ACK72/PlayBridge
+
+https://github.com/viktor02/picoInstaller/releases
+
+https://github.com/barteqcz/MIUI-debloater/releases
+
+https://github.com/TheConsciousBone/adb-tools/releases
+
+https://github.com/thulasi-ram/simple_android_debloater/releases
+
+https://github.com/Frontesque/scrcpy-plus/releases
+
